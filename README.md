@@ -5,4 +5,4 @@
 | Command  |  Description |
 |---|---|
 | `gcloud auth login`  | Login into gcp (+ add new login account) |
-| `gcloud auth list` | List all accounts
+| `gcloud auth list` | List all authenticated accounts
