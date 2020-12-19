@@ -19,4 +19,4 @@
 
 | Command  |  Description |
 |---|---|
-| `gcloud sql connect [DB-NAME] --user=postgres`  | Connect to a sql db via Cloud Shell|
+| `gcloud sql connect [DB-NAME] --user=[USER]`  | Connect to a sql db via Cloud Shell|
