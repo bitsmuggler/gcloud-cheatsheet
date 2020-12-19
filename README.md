@@ -1,4 +1,4 @@
-# Gcloud Cheatsheet
+# GCP Cheatsheet
 
 ## Authentication
 
