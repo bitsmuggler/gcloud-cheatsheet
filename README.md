@@ -15,3 +15,8 @@
 | `gcloud init`  | Initialize gcp sdk |
 | `gcloud app deploy` | Deploy the app to the gcp
 
+## SQL
+
+| Command  |  Description |
+|---|---|
+| `gcloud sql connect [DB-NAME] --user=postgres`  | Connect to a sql db via Cloud Shell|
